@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.1.49](https://github.com/scratchfoundation/scratch-gui/compare/v5.1.48...v5.1.49) (2025-03-22)
+
+
+### Bug Fixes
+
+* **deps:** lock file maintenance ([1390fb6](https://github.com/scratchfoundation/scratch-gui/commit/1390fb6c15dd7d64a5abf8c37d35f065256e2511))
+
 ## [5.1.48](https://github.com/scratchfoundation/scratch-gui/compare/v5.1.47...v5.1.48) (2025-03-20)
 
 
